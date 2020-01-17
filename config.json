@@ -1,86 +1,4 @@
 {
-  "01 Alaska '15": [
-    {
-      "height": 2848,
-      "compressed_path": "./photos/01 Alaska '15/IMG_0474-48.min.jpg",
-      "width": 4272,
-      "compressed": false,
-      "placeholder_path": "./photos/01 Alaska '15/IMG_0474-48.placeholder.jpg",
-      "path": "./photos/01 Alaska '15/IMG_0474-48.jpg"
-    },
-    {
-      "height": 2365,
-      "compressed_path": "./photos/01 Alaska '15/IMG_0360-31-4.min.jpg",
-      "width": 3547,
-      "compressed": false,
-      "placeholder_path": "./photos/01 Alaska '15/IMG_0360-31-4.placeholder.jpg",
-      "path": "./photos/01 Alaska '15/IMG_0360-31-4.jpg"
-    },
-    {
-      "height": 3913,
-      "compressed_path": "./photos/01 Alaska '15/IMG_0535-49-589.min.jpg",
-      "width": 2795,
-      "compressed": false,
-      "placeholder_path": "./photos/01 Alaska '15/IMG_0535-49-589.placeholder.jpg",
-      "path": "./photos/01 Alaska '15/IMG_0535-49-589.jpg"
-    },
-    {
-      "height": 3952,
-      "compressed_path": "./photos/01 Alaska '15/IMG_0190-10.min.jpg",
-      "width": 2635,
-      "compressed": false,
-      "placeholder_path": "./photos/01 Alaska '15/IMG_0190-10.placeholder.jpg",
-      "path": "./photos/01 Alaska '15/IMG_0190-10.jpg"
-    },
-    {
-      "height": 2765,
-      "compressed_path": "./photos/01 Alaska '15/IMG_0220-4-4.min.jpg",
-      "width": 4148,
-      "compressed": false,
-      "placeholder_path": "./photos/01 Alaska '15/IMG_0220-4-4.placeholder.jpg",
-      "path": "./photos/01 Alaska '15/IMG_0220-4-4.jpg"
-    },
-    {
-      "height": 2778,
-      "compressed_path": "./photos/01 Alaska '15/0_intro.min.jpg",
-      "width": 4167,
-      "compressed": false,
-      "placeholder_path": "./photos/01 Alaska '15/0_intro.placeholder.jpg",
-      "path": "./photos/01 Alaska '15/0_intro.jpg"
-    },
-    {
-      "height": 2324,
-      "compressed_path": "./photos/01 Alaska '15/IMG_0310-24-4.min.jpg",
-      "width": 3486,
-      "compressed": false,
-      "placeholder_path": "./photos/01 Alaska '15/IMG_0310-24-4.placeholder.jpg",
-      "path": "./photos/01 Alaska '15/IMG_0310-24-4.jpg"
-    },
-    {
-      "height": 2848,
-      "compressed_path": "./photos/01 Alaska '15/IMG_0180-7.min.jpg",
-      "width": 4272,
-      "compressed": false,
-      "placeholder_path": "./photos/01 Alaska '15/IMG_0180-7.placeholder.jpg",
-      "path": "./photos/01 Alaska '15/IMG_0180-7.jpg"
-    },
-    {
-      "height": 2848,
-      "compressed_path": "./photos/01 Alaska '15/IMG_0234-13.min.jpg",
-      "width": 4272,
-      "compressed": false,
-      "placeholder_path": "./photos/01 Alaska '15/IMG_0234-13.placeholder.jpg",
-      "path": "./photos/01 Alaska '15/IMG_0234-13.jpg"
-    },
-    {
-      "height": 2848,
-      "compressed_path": "./photos/01 Alaska '15/IMG_0444-43-4.min.jpg",
-      "width": 4218,
-      "compressed": false,
-      "placeholder_path": "./photos/01 Alaska '15/IMG_0444-43-4.placeholder.jpg",
-      "path": "./photos/01 Alaska '15/IMG_0444-43-4.jpg"
-    }
-  ],
   "02 Roadtrip USA '15": [],
   "03 Ireland '15": [],
   "07 Iguazu '16": [
@@ -419,64 +337,7 @@
       "path": "./photos/05 National Parks/0_intro.jpg"
     }
   ],
-  "00 Clare Island '15": [
-    {
-      "height": 3867,
-      "compressed_path": "./photos/00 Clare Island '15/DSC_0151-4-5801 x 3867.min.jpg",
-      "width": 5800,
-      "compressed": false,
-      "placeholder_path": "./photos/00 Clare Island '15/DSC_0151-4-5801 x 3867.placeholder.jpg",
-      "path": "./photos/00 Clare Island '15/DSC_0151-4-5801 x 3867.jpg"
-    },
-    {
-      "height": 3934,
-      "compressed_path": "./photos/00 Clare Island '15/DSC_0208-4.min.jpg",
-      "width": 5901,
-      "compressed": false,
-      "placeholder_path": "./photos/00 Clare Island '15/DSC_0208-4.placeholder.jpg",
-      "path": "./photos/00 Clare Island '15/DSC_0208-4.jpg"
-    },
-    {
-      "height": 3689,
-      "compressed_path": "./photos/00 Clare Island '15/DSC_0272-4.min.jpg",
-      "width": 5533,
-      "compressed": false,
-      "placeholder_path": "./photos/00 Clare Island '15/DSC_0272-4.placeholder.jpg",
-      "path": "./photos/00 Clare Island '15/DSC_0272-4.jpg"
-    },
-    {
-      "height": 3764,
-      "compressed_path": "./photos/00 Clare Island '15/DSC_0274-4.min.jpg",
-      "width": 5646,
-      "compressed": false,
-      "placeholder_path": "./photos/00 Clare Island '15/DSC_0274-4.placeholder.jpg",
-      "path": "./photos/00 Clare Island '15/DSC_0274-4.jpg"
-    },
-    {
-      "height": 3875,
-      "compressed_path": "./photos/00 Clare Island '15/0_intro.min.jpg",
-      "width": 5813,
-      "compressed": false,
-      "placeholder_path": "./photos/00 Clare Island '15/0_intro.placeholder.jpg",
-      "path": "./photos/00 Clare Island '15/0_intro.jpg"
-    },
-    {
-      "height": 3349,
-      "compressed_path": "./photos/00 Clare Island '15/DSC_0303-4.min.jpg",
-      "width": 5023,
-      "compressed": false,
-      "placeholder_path": "./photos/00 Clare Island '15/DSC_0303-4.placeholder.jpg",
-      "path": "./photos/00 Clare Island '15/DSC_0303-4.jpg"
-    },
-    {
-      "height": 3863,
-      "compressed_path": "./photos/00 Clare Island '15/DSC_0015-4-5795 x 3863.min.jpg",
-      "width": 5795,
-      "compressed": false,
-      "placeholder_path": "./photos/00 Clare Island '15/DSC_0015-4-5795 x 3863.placeholder.jpg",
-      "path": "./photos/00 Clare Island '15/DSC_0015-4-5795 x 3863.jpg"
-    }
-  ],
+  "06 Monte Azul '16": [],
   "09 Iceland '17": [
     {
       "height": 3071,
@@ -641,6 +502,212 @@
       "path": "./photos/Mockups/photoframe.png"
     }
   ],
+  "01-Alaska-2015": [
+    {
+      "height": 2848,
+      "compressed_path": "./photos/01-Alaska-2015/IMG_0474-48.min.jpg",
+      "width": 4272,
+      "compressed": false,
+      "placeholder_path": "./photos/01-Alaska-2015/IMG_0474-48.placeholder.jpg",
+      "path": "./photos/01-Alaska-2015/IMG_0474-48.jpg"
+    },
+    {
+      "height": 2365,
+      "compressed_path": "./photos/01-Alaska-2015/IMG_0360-31-4.min.jpg",
+      "width": 3547,
+      "compressed": false,
+      "placeholder_path": "./photos/01-Alaska-2015/IMG_0360-31-4.placeholder.jpg",
+      "path": "./photos/01-Alaska-2015/IMG_0360-31-4.jpg"
+    },
+    {
+      "height": 3913,
+      "compressed_path": "./photos/01-Alaska-2015/IMG_0535-49-589.min.jpg",
+      "width": 2795,
+      "compressed": false,
+      "placeholder_path": "./photos/01-Alaska-2015/IMG_0535-49-589.placeholder.jpg",
+      "path": "./photos/01-Alaska-2015/IMG_0535-49-589.jpg"
+    },
+    {
+      "height": 3952,
+      "compressed_path": "./photos/01-Alaska-2015/IMG_0190-10.min.jpg",
+      "width": 2635,
+      "compressed": false,
+      "placeholder_path": "./photos/01-Alaska-2015/IMG_0190-10.placeholder.jpg",
+      "path": "./photos/01-Alaska-2015/IMG_0190-10.jpg"
+    },
+    {
+      "height": 2765,
+      "compressed_path": "./photos/01-Alaska-2015/IMG_0220-4-4.min.jpg",
+      "width": 4148,
+      "compressed": false,
+      "placeholder_path": "./photos/01-Alaska-2015/IMG_0220-4-4.placeholder.jpg",
+      "path": "./photos/01-Alaska-2015/IMG_0220-4-4.jpg"
+    },
+    {
+      "height": 2778,
+      "compressed_path": "./photos/01-Alaska-2015/0_intro.min.jpg",
+      "width": 4167,
+      "compressed": false,
+      "placeholder_path": "./photos/01-Alaska-2015/0_intro.placeholder.jpg",
+      "path": "./photos/01-Alaska-2015/0_intro.jpg"
+    },
+    {
+      "height": 2324,
+      "compressed_path": "./photos/01-Alaska-2015/IMG_0310-24-4.min.jpg",
+      "width": 3486,
+      "compressed": false,
+      "placeholder_path": "./photos/01-Alaska-2015/IMG_0310-24-4.placeholder.jpg",
+      "path": "./photos/01-Alaska-2015/IMG_0310-24-4.jpg"
+    },
+    {
+      "height": 2848,
+      "compressed_path": "./photos/01-Alaska-2015/IMG_0180-7.min.jpg",
+      "width": 4272,
+      "compressed": false,
+      "placeholder_path": "./photos/01-Alaska-2015/IMG_0180-7.placeholder.jpg",
+      "path": "./photos/01-Alaska-2015/IMG_0180-7.jpg"
+    },
+    {
+      "height": 2848,
+      "compressed_path": "./photos/01-Alaska-2015/IMG_0234-13.min.jpg",
+      "width": 4272,
+      "compressed": false,
+      "placeholder_path": "./photos/01-Alaska-2015/IMG_0234-13.placeholder.jpg",
+      "path": "./photos/01-Alaska-2015/IMG_0234-13.jpg"
+    },
+    {
+      "height": 2848,
+      "compressed_path": "./photos/01-Alaska-2015/IMG_0444-43-4.min.jpg",
+      "width": 4218,
+      "compressed": false,
+      "placeholder_path": "./photos/01-Alaska-2015/IMG_0444-43-4.placeholder.jpg",
+      "path": "./photos/01-Alaska-2015/IMG_0444-43-4.jpg"
+    }
+  ],
+  "00-Clare-Island-2015": [
+    {
+      "height": 3867,
+      "compressed_path": "./photos/00-Clare-Island-2015/DSC_0151-4-5801 x 3867.min.jpg",
+      "width": 5800,
+      "compressed": false,
+      "placeholder_path": "./photos/00-Clare-Island-2015/DSC_0151-4-5801 x 3867.placeholder.jpg",
+      "path": "./photos/00-Clare-Island-2015/DSC_0151-4-5801 x 3867.jpg"
+    },
+    {
+      "height": 3934,
+      "compressed_path": "./photos/00-Clare-Island-2015/DSC_0208-4.min.jpg",
+      "width": 5901,
+      "compressed": false,
+      "placeholder_path": "./photos/00-Clare-Island-2015/DSC_0208-4.placeholder.jpg",
+      "path": "./photos/00-Clare-Island-2015/DSC_0208-4.jpg"
+    },
+    {
+      "height": 3689,
+      "compressed_path": "./photos/00-Clare-Island-2015/DSC_0272-4.min.jpg",
+      "width": 5533,
+      "compressed": false,
+      "placeholder_path": "./photos/00-Clare-Island-2015/DSC_0272-4.placeholder.jpg",
+      "path": "./photos/00-Clare-Island-2015/DSC_0272-4.jpg"
+    },
+    {
+      "height": 3764,
+      "compressed_path": "./photos/00-Clare-Island-2015/DSC_0274-4.min.jpg",
+      "width": 5646,
+      "compressed": false,
+      "placeholder_path": "./photos/00-Clare-Island-2015/DSC_0274-4.placeholder.jpg",
+      "path": "./photos/00-Clare-Island-2015/DSC_0274-4.jpg"
+    },
+    {
+      "height": 3875,
+      "compressed_path": "./photos/00-Clare-Island-2015/0_intro.min.jpg",
+      "width": 5813,
+      "compressed": false,
+      "placeholder_path": "./photos/00-Clare-Island-2015/0_intro.placeholder.jpg",
+      "path": "./photos/00-Clare-Island-2015/0_intro.jpg"
+    },
+    {
+      "height": 3349,
+      "compressed_path": "./photos/00-Clare-Island-2015/DSC_0303-4.min.jpg",
+      "width": 5023,
+      "compressed": false,
+      "placeholder_path": "./photos/00-Clare-Island-2015/DSC_0303-4.placeholder.jpg",
+      "path": "./photos/00-Clare-Island-2015/DSC_0303-4.jpg"
+    },
+    {
+      "height": 3863,
+      "compressed_path": "./photos/00-Clare-Island-2015/DSC_0015-4-5795 x 3863.min.jpg",
+      "width": 5795,
+      "compressed": false,
+      "placeholder_path": "./photos/00-Clare-Island-2015/DSC_0015-4-5795 x 3863.placeholder.jpg",
+      "path": "./photos/00-Clare-Island-2015/DSC_0015-4-5795 x 3863.jpg"
+    }
+  ],
+  "10 Half Dome '18": [
+    {
+      "height": 3119,
+      "compressed_path": "./photos/10 Half Dome '18/01.min.jpg",
+      "width": 5545,
+      "compressed": false,
+      "placeholder_path": "./photos/10 Half Dome '18/01.placeholder.jpg",
+      "path": "./photos/10 Half Dome '18/01.jpg"
+    },
+    {
+      "height": 4315,
+      "compressed_path": "./photos/10 Half Dome '18/03.min.jpg",
+      "width": 2877,
+      "compressed": false,
+      "placeholder_path": "./photos/10 Half Dome '18/03.placeholder.jpg",
+      "path": "./photos/10 Half Dome '18/03.jpg"
+    },
+    {
+      "height": 3375,
+      "compressed_path": "./photos/10 Half Dome '18/02.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/10 Half Dome '18/02.placeholder.jpg",
+      "path": "./photos/10 Half Dome '18/02.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/10 Half Dome '18/06.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/10 Half Dome '18/06.placeholder.jpg",
+      "path": "./photos/10 Half Dome '18/06.jpg"
+    },
+    {
+      "height": 3399,
+      "compressed_path": "./photos/10 Half Dome '18/07.min.jpg",
+      "width": 5098,
+      "compressed": false,
+      "placeholder_path": "./photos/10 Half Dome '18/07.placeholder.jpg",
+      "path": "./photos/10 Half Dome '18/07.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/10 Half Dome '18/05.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/10 Half Dome '18/05.placeholder.jpg",
+      "path": "./photos/10 Half Dome '18/05.jpg"
+    },
+    {
+      "height": 3325,
+      "compressed_path": "./photos/10 Half Dome '18/04.min.jpg",
+      "width": 4988,
+      "compressed": false,
+      "placeholder_path": "./photos/10 Half Dome '18/04.placeholder.jpg",
+      "path": "./photos/10 Half Dome '18/04.jpg"
+    },
+    {
+      "height": 3316,
+      "compressed_path": "./photos/10 Half Dome '18/08.min.jpg",
+      "width": 4974,
+      "compressed": false,
+      "placeholder_path": "./photos/10 Half Dome '18/08.placeholder.jpg",
+      "path": "./photos/10 Half Dome '18/08.jpg"
+    }
+  ],
   "04 Istanbul '15": [
     {
       "height": 6000,
@@ -730,72 +797,5 @@
       "placeholder_path": "./photos/04 Istanbul '15/DSC_0171.placeholder.jpg",
       "path": "./photos/04 Istanbul '15/DSC_0171.jpg"
     }
-  ],
-  "10 Half Dome '18": [
-    {
-      "height": 3119,
-      "compressed_path": "./photos/10 Half Dome '18/01.min.jpg",
-      "width": 5545,
-      "compressed": false,
-      "placeholder_path": "./photos/10 Half Dome '18/01.placeholder.jpg",
-      "path": "./photos/10 Half Dome '18/01.jpg"
-    },
-    {
-      "height": 4315,
-      "compressed_path": "./photos/10 Half Dome '18/03.min.jpg",
-      "width": 2877,
-      "compressed": false,
-      "placeholder_path": "./photos/10 Half Dome '18/03.placeholder.jpg",
-      "path": "./photos/10 Half Dome '18/03.jpg"
-    },
-    {
-      "height": 3375,
-      "compressed_path": "./photos/10 Half Dome '18/02.min.jpg",
-      "width": 6000,
-      "compressed": false,
-      "placeholder_path": "./photos/10 Half Dome '18/02.placeholder.jpg",
-      "path": "./photos/10 Half Dome '18/02.jpg"
-    },
-    {
-      "height": 4000,
-      "compressed_path": "./photos/10 Half Dome '18/06.min.jpg",
-      "width": 6000,
-      "compressed": false,
-      "placeholder_path": "./photos/10 Half Dome '18/06.placeholder.jpg",
-      "path": "./photos/10 Half Dome '18/06.jpg"
-    },
-    {
-      "height": 3399,
-      "compressed_path": "./photos/10 Half Dome '18/07.min.jpg",
-      "width": 5098,
-      "compressed": false,
-      "placeholder_path": "./photos/10 Half Dome '18/07.placeholder.jpg",
-      "path": "./photos/10 Half Dome '18/07.jpg"
-    },
-    {
-      "height": 6000,
-      "compressed_path": "./photos/10 Half Dome '18/05.min.jpg",
-      "width": 4000,
-      "compressed": false,
-      "placeholder_path": "./photos/10 Half Dome '18/05.placeholder.jpg",
-      "path": "./photos/10 Half Dome '18/05.jpg"
-    },
-    {
-      "height": 3325,
-      "compressed_path": "./photos/10 Half Dome '18/04.min.jpg",
-      "width": 4988,
-      "compressed": false,
-      "placeholder_path": "./photos/10 Half Dome '18/04.placeholder.jpg",
-      "path": "./photos/10 Half Dome '18/04.jpg"
-    },
-    {
-      "height": 3316,
-      "compressed_path": "./photos/10 Half Dome '18/08.min.jpg",
-      "width": 4974,
-      "compressed": false,
-      "placeholder_path": "./photos/10 Half Dome '18/08.placeholder.jpg",
-      "path": "./photos/10 Half Dome '18/08.jpg"
-    }
-  ],
-  "06 Monte Azul '16": []
+  ]
 }
